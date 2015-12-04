@@ -1,4 +1,4 @@
-##Вольный перевод спецификации — Navigation Timing
+##Вольный перевод спецификации — [Navigation Timing](http://www.w3.org/TR/navigation-timing)
 
 ###Общее.
 
